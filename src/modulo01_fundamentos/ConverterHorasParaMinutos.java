@@ -7,7 +7,7 @@ public class ConverterHorasParaMinutos {
    
     public static void main(String[] args) {
         
-        double horas = 2;
+        double horas = 3.5;
         
         double minutos  =  horas * 60;
         
