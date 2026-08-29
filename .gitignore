@@ -1,0 +1,12 @@
+/build/
+/nbproject/
+/dist/
+/private/
+build/
+nbproject/
+dist/
+private/
+.gradle/
+.settings/
+bin/
+build.xml
