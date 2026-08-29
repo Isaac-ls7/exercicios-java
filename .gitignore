@@ -10,3 +10,4 @@ private/
 .settings/
 bin/
 build.xml
+manifest.mf
