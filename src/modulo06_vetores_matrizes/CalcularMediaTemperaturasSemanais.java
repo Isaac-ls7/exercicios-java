@@ -1,4 +1,4 @@
-package modulo06_arrays;
+package modulo06_vetores_matrizes;
 
 import java.util.Scanner;
 
